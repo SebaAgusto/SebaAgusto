@@ -25,14 +25,14 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+<!--Sobre mi-->
+- Estudiante de **licenciatura en ingenieria en ciencias de la computación**🖥️ de la Universidad Católica 🛏️📚
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- Actualmente cursando el 2do año de mi carrera🧓
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- Aprendiendo a programar en python, html, entre otros lenguajes.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- Deportista de alto rendimiento 🥋
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
