@@ -36,7 +36,7 @@
 
 <h3> Languages: </h3>
 
-<body>
+<body align="center">
 <img src="https://www.ingenioteka.com/wp-content/uploads/2018/04/python-logo.png" alt="Python" style="width: 200px; display: inline-block; margin-right: 10px;">
 <img src="https://niixer.com/wp-content/uploads/2024/02/html5-1.jpg" alt="HTML" style="width: 200px; display: inline-block; margin-right: 10px;">
   <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/css3-logo.jpg?resize=1200%2C600&ssl=1" alt="CSS" style="width: 200px; display: inline-block;">
