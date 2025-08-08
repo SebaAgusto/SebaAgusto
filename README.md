@@ -5,74 +5,51 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola!👋 Soy SebaAgusto</h1></summary>
+    <summary><h1 style="display: inline-block">Hi!👋 I'm SebaAgusto</h1></summary>
   </ul>
 </div>
 
 
-<!--- snake -->
+<!--- Imagen -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">El que tenga miedo a morir que no nazca🗣️🗣️</h2></summary>
-  </ul>
+  <img  src="https://generacionxbox.com/wp-content/uploads/2020/03/Doom-Eternal-1.jpg"
+       alt="Image" /></a>
 </div>
 
 
 <!--Sobre mi-->
-- Estudiante de **licenciatura en ingenieria en ciencias de la computación**🖥️ de la Universidad Católica 🛏️📚
+<h2> About me: </h2>
 
-- Actualmente cursando el 2do año de mi carrera🧓
+- I'm a **computer scienctist**🖥️ student at the Catholic University 🛏️📚
 
-- Aprendiendo a programar en python, html, entre otros lenguajes.
+- My 2nd Year studiyng
 
-- Deportista de artes marciales 🥋
+- Martial Artist 🥋
 
-- 📫 Para contactarme escribeme a este correo **sebastian.agusto.a@gmail.com**
+- Tutor Uc 2025 👾
+
 
 <!--Intro end-->
 
+<!--Mostrar los conocimientos de mis lenguajes de programacion-->
+<h2> My knowledges: </h2>
 
-<!---Estadisticas y logros (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SebaAgusto&theme=dark&hide_border=false" /> 
-</td>
+<h3> Languages: </h3>
 
-<td width="50%" align="center">
+<body>
+<img src="https://www.ingenioteka.com/wp-content/uploads/2018/04/python-logo.png" alt="Python" style="width: 200px; display: inline-block; margin-right: 10px;">
+<img src="https://niixer.com/wp-content/uploads/2024/02/html5-1.jpg" alt="HTML" style="width: 200px; display: inline-block; margin-right: 10px;">
+  <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/css3-logo.jpg?resize=1200%2C600&ssl=1" alt="CSS" style="width: 200px; display: inline-block;">
+</body>
+<h3> Skills: </h3>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaAgusto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  
-  </td>
 
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SebaAgusto&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="TROPHY" />
-    </a>
-</div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Mis redes sociales🤝</h2></summary>
+    <summary><h2 style="display: inline-block">My contact🤝</h2></summary>
   </ul>
 </div>
 
@@ -86,15 +63,6 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SebaAgusto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
