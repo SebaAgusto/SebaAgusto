@@ -14,7 +14,7 @@
 
 <!--- Imagen -->
 <div align="center">
-  <img  src="https://generacionxbox.com/wp-content/uploads/2020/03/Doom-Eternal-1.jpg" width="400px" alt="Image" /></a>
+  <img src="https://media.tenor.com/K1uImj3uSYoAAAAi/doom-slayer-dance.gif.gif" width="200" alt="Doom Slayer Animation">
 </div>
 
 
