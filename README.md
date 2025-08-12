@@ -14,8 +14,7 @@
 
 <!--- Imagen -->
 <div align="center">
-  <img  src="https://generacionxbox.com/wp-content/uploads/2020/03/Doom-Eternal-1.jpg"
-       alt="Image" /></a>
+  <img  src="https://generacionxbox.com/wp-content/uploads/2020/03/Doom-Eternal-1.jpg" width="400px" alt="Image" /></a>
 </div>
 
 
@@ -38,22 +37,32 @@
 
 <h3> Languages: </h3>
 
-<div align = "center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-steelblue?style=for-the-badge&logo=Python&logoColor=yellow&link=https%3A%2F%2Fwww.python.org%2F" alt="Python">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PhP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&link=https%3A%2F%2Fwww.php.net%2F">
-  <img alt="Static Badge" src="https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql&logoColor=orange&link=https%3A%2F%2Fwww.postgresql.org%2Fdocs%2Fcurrent%2Fapp-psql.html">
-  <img alt="Static Badge" src="https://img.shields.io/badge/risc--V-0D3B66?style=for-the-badge&logo=riscv&logoColor=white&link=https%3A%2F%2Friscv.org%2F">
-  <img alt="Static Badge" src="https://img.shields.io/badge/assembly-steelblue?style=for-the-badge&logo=assemblyscript&logoColor=white&link=https%3A%2F%2Fwww.ibm.com%2Fdocs%2Fen%2Faix%2F7.2.0%3Ftopic%3Daix-assembler-language-reference">
+<div align="center">
+
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/PYTHON-steelblue?style=for-the-badge&logo=Python&logoColor=yellow"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="https://www.postgresql.org/docs/current/app-psql.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=orange"></a>
+  <a href="https://riscv.org/" target="_blank"><img alt="RISC-V" src="https://img.shields.io/badge/risc--V-0D3B66?style=for-the-badge&logo=riscv&logoColor=white"></a>
+  <a href="https://www.ibm.com/docs/en/aix/7.2.0?topic=aix-assembler-language-reference" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/assembly-steelblue?style=for-the-badge&logo=assemblyscript&logoColor=white"></a>
+  <a href="https://www.latex-project.org/help/documentation/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white"></a>
+</div>
+
+
+<h3> Learning: </h3>
+
+<div align = "left">
+
+  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white"></a>
+  <a href="https://rubyonrails.org/docs" target="_blank">
+<img alt="Rails" src="https://img.shields.io/badge/rails-E0115F?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>
 
 </div>
 
 <h3> Skills: </h3>
+In progress...
 
-<h3> Learning: </h3>
-<img src="https://images.icon-icons.com/2699/PNG/512/ruby_lang_horizontal_logo_icon_168854.png" alt="Ruby" style="width: 200px; display: inline-block; margin-right: 10px;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52BX2c0gqlrWYRjkUlZhREthGjeloS6e3vTscBsAseA2ogqES3jyB2-WcL3sw65R1K4U&usqp=CAU" alt="RoR" style="width: 200px; display: inline-block; margin-right: 10px;">
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -62,11 +71,16 @@
 </div>
 
 <!--Redes sociales-->
-<!--Instagram-->
+
 <p align="center"> 
-  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <!--Instagram-->
+  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-F56096?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <!--Discord-->
-  <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> 
+  <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://img.shields.io/badge/%40sebaagusto-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <!--Telegram-->
+  <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
 </p>
 
 
