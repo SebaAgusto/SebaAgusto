@@ -74,7 +74,6 @@ In progress...
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats de SebaAgusto">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SebaAgusto&amp;theme=tokyonight&amp;date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de SebaAgusto">
-<img src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight" alt="Estadísticas de GitHub de SebaAgusto">
 
 
 
