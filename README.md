@@ -49,6 +49,9 @@
   <a href="https://riscv.org/" target="_blank"><img alt="RISC-V" src="https://img.shields.io/badge/risc--V-0D3B66?style=for-the-badge&logo=riscv&logoColor=white"></a>
   <a href="https://www.ibm.com/docs/en/aix/7.2.0?topic=aix-assembler-language-reference" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/assembly-steelblue?style=for-the-badge&logo=assemblyscript&logoColor=white"></a>
   <a href="https://www.latex-project.org/help/documentation/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white"></a>
+  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white"></a>
+  <a href="https://rubyonrails.org/docs" target="_blank">
+<img alt="Rails" src="https://img.shields.io/badge/rails-E0115F?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>
 
 </div>
 
@@ -56,12 +59,11 @@
 <h3> Learning: </h3>
 
 <div align = "left">
-
-  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white"></a>
-  <a href="https://rubyonrails.org/docs" target="_blank">
-<img alt="Rails" src="https://img.shields.io/badge/rails-E0115F?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>
 <a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge"/>
  </a>
+<a href="https://docs.astro.build/en/getting-started/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Astro-blue?style=for-the-badge&logo=astro&logoColor=white&color=%23BC52EE"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E"></a>
+<a href="https://react.dev/learn" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB"></a>
 
 </div>
 
