@@ -70,7 +70,16 @@
 <h3> Skills: </h3>
 In progress...
 
-<!--h2 without bottom border-->
+<h3>My stats </h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats de SebaAgusto">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SebaAgusto&amp;theme=tokyonight&amp;date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de SebaAgusto">
+<img src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight" alt="Estadísticas de GitHub de SebaAgusto">
+
+
+
+</div>
+<!--Mi contacto-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My contact🤝</h2></summary>
@@ -98,5 +107,3 @@ In progress...
 ----------------------------------------------------------------------
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
