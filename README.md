@@ -72,7 +72,7 @@ In progress...
 
 <h3>My stats </h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats de SebaAgusto">
+<img src="https://github-readme-stats.vercel.app/api?user=SebaAgusto&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats de SebaAgusto">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SebaAgusto&amp;theme=tokyonight&amp;date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de SebaAgusto">
 
 
