@@ -21,13 +21,11 @@
 <!--Sobre mi-->
 <h2> About me: </h2>
 
-- I'm a **computer scienctist**🖥️ student at the Catholic University 🛏️📚
-
-- My 2nd Year studiyng
+- I'm a **Computer science**🖥️ student Universidad catolica de Chile 🛏️📚
 
 - Martial Artist 🥋
 
-- Tutor Uc 2025 👾
+- Tutor Uc 2025 - 2026 👾
 
 - Osuc developer🖥️
 
@@ -94,6 +92,12 @@ In progress...
   <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://img.shields.io/badge/%40sebaagusto-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <!--Telegram-->
   <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<!--Linkedin-->
+  <a href="https://www.linkedin.com/in/sebastian-agusto-6aaa2738b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </a>
 
 </p>
