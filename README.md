@@ -29,8 +29,6 @@
 
 - Osuc developer🖥️
 
-- Probando
-
 
 <!--Intro end-->
 
@@ -64,6 +62,7 @@
 <a href="https://docs.astro.build/en/getting-started/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Astro-blue?style=for-the-badge&logo=astro&logoColor=white&color=%23BC52EE"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E"></a>
 <a href="https://react.dev/learn" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB"></a>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 </div>
 
