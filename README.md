@@ -14,7 +14,7 @@
 
 <!--- Imagen -->
 <div align="center">
-  <img src="https://media.tenor.com/K1uImj3uSYoAAAAi/doom-slayer-dance.gif.gif" width="200" alt="Doom Slayer Animation">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Doom Slayer Animation">
 </div>
 
 
