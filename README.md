@@ -33,7 +33,7 @@
 <!--Intro end-->
 
 <!--Mostrar los conocimientos de mis lenguajes de programacion-->
-<h2> My knowledges: </h2>
+<h2> Main skills: </h2>
 
 <h3> Languages: </h3>
 
@@ -65,15 +65,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 </div>
-
-<h3> Skills: </h3>
-In progress...
-
-<h3>My stats </h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats de SebaAgusto">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SebaAgusto&amp;theme=tokyonight&amp;date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de SebaAgusto">
-
 
 
 </div>
