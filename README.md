@@ -21,7 +21,7 @@
 <!--Sobre mi-->
 <h2> About me: </h2>
 
-- I'm a **Computer science**🖥️ student Universidad catolica de Chile 🛏️📚
+- I'm a **Computer science**🖥️ student at Universidad catolica de Chile 🛏️📚
 
 - Martial Artist 🥋
 
@@ -39,30 +39,34 @@
 
 <div align="center">
 
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/PYTHON-steelblue?style=for-the-badge&logo=Python&logoColor=yellow"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="https://www.postgresql.org/docs/current/app-psql.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=orange"></a>
-  <a href="https://riscv.org/" target="_blank"><img alt="RISC-V" src="https://img.shields.io/badge/risc--V-0D3B66?style=for-the-badge&logo=riscv&logoColor=white"></a>
-  <a href="https://www.ibm.com/docs/en/aix/7.2.0?topic=aix-assembler-language-reference" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/assembly-steelblue?style=for-the-badge&logo=assemblyscript&logoColor=white"></a>
-  <a href="https://www.latex-project.org/help/documentation/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white"></a>
-  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white"></a>
-  <a href="https://rubyonrails.org/docs" target="_blank">
-<img alt="Rails" src="https://img.shields.io/badge/rails-E0115F?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/PYTHON-steelblue?style=for-the-badge&logo=Python&logoColor=yellow"></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
+  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
+  <a href="https://www.postgresql.org/docs/current/app-psql.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=orange"></a>&nbsp;
+  <a href="https://riscv.org/" target="_blank"><img alt="RISC-V" src="https://img.shields.io/badge/risc--V-0D3B66?style=for-the-badge&logo=riscv&logoColor=white"></a>&nbsp;
+  <a href="https://www.ibm.com/docs/en/aix/7.2.0?topic=aix-assembler-language-reference" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/assembly-steelblue?style=for-the-badge&logo=assemblyscript&logoColor=white"></a>&nbsp;
+  <a href="https://www.latex-project.org/help/documentation/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white"></a>&nbsp;
+  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E"></a>&nbsp;
+
+</div>
+
+<h3>Libraries and frameworks</h3>
+<div align="center">
+<a href="https://react.dev/learn" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB"></a>&nbsp;
+<a href="https://rubyonrails.org/docs" target="_blank">
+<img alt="Rails" src="https://img.shields.io/badge/rails-E0115F?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>&nbsp;
 
 </div>
 
 
 <h3> Learning: </h3>
 
-<div align = "left">
-<a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge"/>
- </a>
-<a href="https://docs.astro.build/en/getting-started/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Astro-blue?style=for-the-badge&logo=astro&logoColor=white&color=%23BC52EE"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E"></a>
-<a href="https://react.dev/learn" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB"></a>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<div align = "center">
+<a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge"/></a>&nbsp;
+<a href="https://docs.astro.build/en/getting-started/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Astro-blue?style=for-the-badge&logo=astro&logoColor=white&color=%23BC52EE"></a>&nbsp;
+<a href="https://devdocs.io/c/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 
 </div>
 
@@ -79,18 +83,16 @@
 
 <p align="center"> 
   <!--Instagram-->
-  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-F56096?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="_blank"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"></a>&nbsp;
   <!--Discord-->
-  <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://img.shields.io/badge/%40sebaagusto-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" width="50" height="50" border-radius="30px"></a>&nbsp;
   <!--Telegram-->
-  <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+  <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" width="50" height="50">
+</a>&nbsp;
 <!--Linkedin-->
   <a href="https://www.linkedin.com/in/sebastian-agusto-6aaa2738b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</a>
+  <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="50" height="50">
+</a>&nbsp;
 
 </p>
 
