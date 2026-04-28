@@ -82,17 +82,17 @@
 <!--Redes sociales-->
 
 <p align="center"> 
-  <!--Instagram-->
-  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="_blank"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"></a>&nbsp;
+<!--Instagram-->
+  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-F56096?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <!--Discord-->
-  <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" width="50" height="50" border-radius="30px"></a>&nbsp;
+  <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://img.shields.io/badge/%40sebaagusto-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <!--Telegram-->
-  <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" width="50" height="50">
-</a>&nbsp;
+  <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 <!--Linkedin-->
   <a href="https://www.linkedin.com/in/sebastian-agusto-6aaa2738b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="50" height="50">
-</a>&nbsp;
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </p>
 
