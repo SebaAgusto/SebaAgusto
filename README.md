@@ -1,6 +1,4 @@
 
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -18,85 +16,87 @@
 </div>
 
 
-<!--Sobre mi-->
-<h2> About me: </h2>
-
-- I'm a **Computer science**🖥️ student at Universidad catolica de Chile 🛏️📚
-
-- Martial Artist 🥋
-
-- Tutor Uc 2025 - 2026 👾
-
-- Osuc developer🖥️
+<h2> About Me: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'> </h2> 
 
 
+- 🔭 I’m currently studying **Computer Science** at Universidad Católica de Chile.
+- 🔧 Currently working at the CAi UC Technology Commission
+- ⚡ Fun fact: 
+    - I'm a Martial Artist 🥋
+    - Tutor UC 2025–2026 👾
+    - Got the platinum in Hollow Knight ☠️
+
+### 🚀 My Projects
+
+- 📊 **[Tu Progreso](https://tu-progreso-ing-licc.vercel.app/)** — Website for UC students to plan their semester. 
 <!--Intro end-->
 
-<!--Mostrar los conocimientos de mis lenguajes de programacion-->
-<h2> Main skills: </h2>
+<!--Technologies knowledges-->
+## 🛠 &nbsp;Tech Stack
 
-<h3> Languages: </h3>
 
-<div align="center">
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)\
+![RISC-V](https://img.shields.io/badge/-RISC--V-05122A?style=flat&logo=riscv)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assemblyscript)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=A8FF00)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=FF0000)&nbsp;
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails&logoColor=E0115F)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/PYTHON-steelblue?style=for-the-badge&logo=Python&logoColor=yellow"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
-  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
-  <a href="https://www.postgresql.org/docs/current/app-psql.html" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=orange"></a>&nbsp;
-  <a href="https://riscv.org/" target="_blank"><img alt="RISC-V" src="https://img.shields.io/badge/risc--V-0D3B66?style=for-the-badge&logo=riscv&logoColor=white"></a>&nbsp;
-  <a href="https://www.ibm.com/docs/en/aix/7.2.0?topic=aix-assembler-language-reference" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/assembly-steelblue?style=for-the-badge&logo=assemblyscript&logoColor=white"></a>&nbsp;
-  <a href="https://www.latex-project.org/help/documentation/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex&logoColor=white"></a>&nbsp;
-  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E"></a>&nbsp;
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=SebaAgusto&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SebaAgusto&theme=dark&hide_border=false" /> 
+</td>
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SebaAgusto&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+</p>        
+
+<br>
+
 
 </div>
 
-<h3>Libraries and frameworks</h3>
-<div align="center">
-<a href="https://react.dev/learn" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB"></a>&nbsp;
-<a href="https://rubyonrails.org/docs" target="_blank">
-<img alt="Rails" src="https://img.shields.io/badge/rails-E0115F?style=for-the-badge&logo=rubyonrails&logoColor=white"></a>&nbsp;
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
-</div>
+<br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/"><img width="100px" alt="Instagram" src="https://img.shields.io/badge/Instagram-F56096?style=flat&logo=instagram&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/"><img width="100px" alt="Discord" src="https://img.shields.io/badge/@sebaagusto-5865F2?style=flat&logo=discord&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://t.me/seba_agusto"><img width="95px" alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sebasti%C3%A1n-agusto-alvial-6aaa2738b/?isSelfProfile=true"><img width="95px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 
-<h3> Learning: </h3>
-
-<div align = "center">
-<a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge"/></a>&nbsp;
-<a href="https://docs.astro.build/en/getting-started/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Astro-blue?style=for-the-badge&logo=astro&logoColor=white&color=%23BC52EE"></a>&nbsp;
-<a href="https://devdocs.io/c/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-
-</div>
-
-
-</div>
-<!--Mi contacto-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My contact🤝</h2></summary>
-  </ul>
-</div>
-
-<!--Redes sociales-->
-
-<p align="center"> 
-<!--Instagram-->
-  <a href="https://www.instagram.com/seba_agusto?igsh=MXEwNjFjeHBlMjVjdA==/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-F56096?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <!--Discord-->
-  <a href="https://discord.com/" target="_blank"><img alt="@sebaagusto" src="https://img.shields.io/badge/%40sebaagusto-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <!--Telegram-->
-  <a href="https://t.me/seba_agusto" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<!--Linkedin-->
-  <a href="https://www.linkedin.com/in/sebastian-agusto-6aaa2738b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
-
+</br>
+</br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
